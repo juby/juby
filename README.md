@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew [@Juby](https://github.com/juby)!
 - 👀 I’m interested in working on new and interesting problems.
-- 🌱 I’m currently learning machine learning and neural networks - check out my [machinelearning](https://github.com/juby/machinelearning) repository!
+- 🌱 I’m currently learning about machine learning and neural networks - check out my [machinelearning](https://github.com/juby/machinelearning) repository!
 - 📫 How to reach me:
 - - Email: jubydoo AT gmail DOT com
 - - LinkedIn: https://www.linkedin.com/in/andrew-juby/
